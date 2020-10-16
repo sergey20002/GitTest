@@ -1,3 +1,3 @@
 # GitTest
 Тестовый репозиторий
-qwertyuiop
+qwerty
